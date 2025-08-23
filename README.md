@@ -1,4 +1,4 @@
-# Pacman Game
+# JavaFX Pacman Game
 
 A JavaFX implementation of the classic Pacman arcade game featuring intelligent ghost AI, multiple game modes, and authentic gameplay mechanics.
 
