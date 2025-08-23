@@ -99,3 +99,13 @@ pacman/
 ## Credits
 
 This implementation was created as a educational project for the introductory computer science class CSCI0150 at Brown University, inspired by the original Pacman arcade game developed by Namco.
+
+## Note for recruiters
+
+This project was developed in the context of a university class assignment. Due to academic integrity policies, the full source code cannot be made publicly available.
+
+Recruiters and prospective employers may request private access or a demonstration of the code and results. Please reach out directly if you’d like to see more.
+
+## Contact
+Nina Py Brozovich
+📧 nina_py_brozovich@brown.edu
